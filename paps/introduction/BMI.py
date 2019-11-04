@@ -6,5 +6,5 @@ lengte = float(lengteAlsString);
 
 bmi =  gewicht / (lengte * lengte); 
 
-print ('BMI = ');
-print (bmi);
+print ('BMI = ')
+print (bmi)

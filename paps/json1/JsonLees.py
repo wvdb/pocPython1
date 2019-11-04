@@ -9,5 +9,5 @@ for line in file:
 
 event = json.loads(totalString)
 
-print ("documentType =", event["documentType"])
-print ("scope =", event["document"]["contestEvent"]["primaryIds"][0]["scope"])
+print("documentType =", event["documentType"])
+print("scope =", event["document"]["contestEvent"]["primaryIds"][0]["scope"])
